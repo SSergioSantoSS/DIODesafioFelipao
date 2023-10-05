@@ -1,0 +1,14 @@
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\bin\Debug\net7.0\DesafioFelipao.exe
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\bin\Debug\net7.0\DesafioFelipao.deps.json
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\bin\Debug\net7.0\DesafioFelipao.runtimeconfig.json
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\bin\Debug\net7.0\DesafioFelipao.dll
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\bin\Debug\net7.0\DesafioFelipao.pdb
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\obj\Debug\net7.0\DesafioFelipao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\obj\Debug\net7.0\DesafioFelipao.AssemblyInfoInputs.cache
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\obj\Debug\net7.0\DesafioFelipao.AssemblyInfo.cs
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\obj\Debug\net7.0\DesafioFelipao.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\obj\Debug\net7.0\DesafioFelipao.dll
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\obj\Debug\net7.0\refint\DesafioFelipao.dll
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\obj\Debug\net7.0\DesafioFelipao.pdb
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\obj\Debug\net7.0\DesafioFelipao.genruntimeconfig.cache
+C:\Projetos\ProjVS\VS22\DesafioFelipao\DesafioFelipao\obj\Debug\net7.0\ref\DesafioFelipao.dll
